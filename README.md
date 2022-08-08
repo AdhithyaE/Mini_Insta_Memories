@@ -9,3 +9,11 @@ Functionalities -
 - CRUD application for sharing posts and articles.
 - Option add images and tags.
 - User can like post and application will display likes count.
+
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+npm config set legacy-peer-deps true
+npm i dotenv
